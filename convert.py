@@ -7,7 +7,7 @@ from time import sleep
 
 SMTP_LIST_FILE = 'smtps.txt'
 OUTPUT_FILE = 'working_smtps.json'
-TEST_EMAIL = 'jeremywilliams25@mail.com'  # Change to your receiving test address
+TEST_EMAIL = 'test@yestmail.com'
 SUBJECT = 'SMTP Test'
 BODY = 'This is a test message from the SMTP checker.'
 
